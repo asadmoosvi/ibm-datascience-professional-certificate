@@ -12,3 +12,8 @@ dependencies = [
     "plotly>=6.2.0",
     "yfinance>=0.2.64",
 ]
+
+[dependency-groups]
+dev = [
+    "jupyterlab-vim>=4.1.4",
+]
