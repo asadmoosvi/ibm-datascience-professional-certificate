@@ -1,3 +1,3 @@
-# Peer Graded Assignment
+# IBM Data Science Professional Certificate
 
-Peer-graded assignment for the course _[Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)_.
+This repository contains assignments for courses in the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science).
